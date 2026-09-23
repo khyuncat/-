@@ -47,4 +47,26 @@ body {
         left: 990px;
         top: 1100px;
     }
+
+    .바로가기1 {
+        padding: 20px;
+        font-weight: bold;
+        line-height: 1.7;
+        margin-bottom: 20px;
+        position:absolute;
+        left: 1250px;
+        top: 510px;
+        text-decoration: none;
+    }
+
+    .바로가기2 {
+        padding: 20px;
+        font-weight: bold;
+        line-height: 1.7;
+        margin-bottom: 20px;
+        position:absolute;
+        left: 1230px;
+        top: 1210px;
+        text-decoration: none;
+    }
 }
