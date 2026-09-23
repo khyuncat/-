@@ -69,4 +69,58 @@ body {
         top: 1210px;
         text-decoration: none;
     }
+
+    .유튜브 {
+        text-shadow: 1px 0px #000000, 0px 1px #000000, -1px 0px #000000, 0px -1px #000000, 1px 1px #000000,
+        1px -1px #000000, -1px -1px #000000, -1px 1px #000000;
+        color:#ff0000;
+    }
+
+    .위험이 {
+        text-shadow: 1px 0px #000000, 0px 1px #000000, -1px 0px #000000, 0px -1px #000000, 1px 1px #000000,
+        1px -1px #000000, -1px -1px #000000, -1px 1px #000000;
+        color:#c300ff;
+    }
+
+    .치에 {
+        text-shadow: 1px 0px #000000, 0px 1px #000000, -1px 0px #000000, 0px -1px #000000, 1px 1px #000000,
+        1px -1px #000000, -1px -1px #000000, -1px 1px #000000;
+        color:#46c4ff;
+    }
+
+    .우고 {
+        text-shadow: 1px 0px #000000, 0px 1px #000000, -1px 0px #000000, 0px -1px #000000, 1px 1px #000000,
+        1px -1px #000000, -1px -1px #000000, -1px 1px #000000;
+        color:#ffffff;
+    }
+
+    .하야테 {
+        text-shadow: 1px 0px #000000, 0px 1px #000000, -1px 0px #000000, 0px -1px #000000, 1px 1px #000000,
+        1px -1px #000000, -1px -1px #000000, -1px 1px #000000;
+        color:#FEEC5C;
+    }
+
+    .팔칠 {
+        text-shadow: 1px 0px #000000, 0px 1px #000000, -1px 0px #000000, 0px -1px #000000, 1px 1px #000000,
+        1px -1px #000000, -1px -1px #000000, -1px 1px #000000;
+        color:#5EA9FC;
+    }
+
+    .이하얀 {
+        text-shadow: 1px 0px #000000, 0px 1px #000000, -1px 0px #000000, 0px -1px #000000, 1px 1px #000000,
+        1px -1px #000000, -1px -1px #000000, -1px 1px #000000;
+        color:#FE5454;
+    }
+
+    .에라이 {
+        text-shadow: 1px 0px #000000, 0px 1px #000000, -1px 0px #000000, 0px -1px #000000, 1px 1px #000000,
+        1px -1px #000000, -1px -1px #000000, -1px 1px #000000;
+        color:#ff8800;
+    }
+
+    .낭숟 {
+        text-shadow: 1px 0px #000000, 0px 1px #000000, -1px 0px #000000, 0px -1px #000000, 1px 1px #000000,
+        1px -1px #000000, -1px -1px #000000, -1px 1px #000000;
+        color:#ff6bdf;
+    }
 }
