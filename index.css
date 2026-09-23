@@ -1,7 +1,25 @@
 body {
-    background-color: #75416b;
-
-    h1, h2, h3, h4, h5, h6, p {
+    header {
+        border-bottom: 2px solid #fcb5ed;
         color: #ffffff;
     }
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #75416b;
+
+    .container1 {
+        color: #ffffff;
+    }
+
+    .write2 {
+        border: 2px solid #fcb5ed;
+        padding: 20px;
+        background-color: #fcb5ed;
+        font-weight: bold;
+    }
+    
+    h3 {
+        color: #ffffff;
+    }
+
 }
