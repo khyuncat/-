@@ -12,14 +12,39 @@ body {
     }
 
     .write2 {
-        border: 2px solid #fcb5ed;
+        border: 2px solid #000000;
         padding: 20px;
         background-color: #fcb5ed;
         font-weight: bold;
+        border-radius: 16px;
+        line-height: 1.7;
+        margin-bottom: 20px;
     }
     
     h3 {
         color: #ffffff;
     }
 
+    .romanspoon-image {
+        position: absolute;
+        left: 1240px;
+        top: 320px;
+    }
+
+    .container3 {
+        border: 2px solid #000000;
+        padding: 20px;
+        background-color: #FF9C2A;
+        font-weight: bold;
+        border-radius: 16px;
+        line-height: 1.7;
+        margin-bottom: 20px;
+        text-decoration: none;
+    }
+
+    .erai-image {
+        position: absolute;
+        left: 990px;
+        top: 1100px;
+    }
 }
